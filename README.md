@@ -1,4 +1,4 @@
-<h1>Hi, I'm Matt, an <a href="https://www.linkedin.com/in/matthew-owen-a0a0b5243/">IT Professional
+<h1>Hi, I'm Matt, an <a href="https://www.linkedin.com/in/matthew-owen0519/">IT Professional
 
 <h2>💻 Information Technology Projects:</h2>
 
@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/MattOwen0519
 [instagram]: https://www.instagram.com
-[linkedin]: https://www.linkedin.com/in/matthew-owen-a0a0b5243/
+[linkedin]: https://www.linkedin.com/in/matthew-owen0519/
