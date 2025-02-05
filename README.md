@@ -6,7 +6,7 @@ I'm passionate about working with technology and love tackling complex challenge
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation](https://github.com/MatthewOwen0519/Vulnerability-Management-Program)**
-- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/MatthewOwen0519/Programmatic-Vulnerability-Remediations-PowerShell-and-BASH-/blob/main/README.md)** Coming soon
+- **[Programmatic Vulnerability Remediations (PowerShell and BASH)](https://github.com/MatthewOwen0519/Programmatic-Vulnerability-Remediations-PowerShell-and-BASH-/blob/main/README.md)** 
 
 ## 🚨 Threat Hunting and Security Operations
 
